@@ -42,3 +42,12 @@ button {
     font-size: 1.2em;
     margin: 15px 0px;
 }
+
+button:hover {
+    background-color: #00aeff;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: #0991d0;
+}
